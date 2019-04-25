@@ -1,4 +1,4 @@
-# GeneticSim - WWDC 2019 Entry
+# Genetic Algorithm Simulation - WWDC 2019 Entry
 
 Artificial intelligence is something that is being used a lot in the tech world right now. From self-driving cars to speech recognition, A.I. is becoming more and more prevalent in our lives. However, the term artificial intelligence branches out into several different methods of self-learning, like neural networks and machine learning. The goal in the simulation is pretty simple; the circle has to get around the red rectangle to the green square. In order to do so, they have to learn from their past wins in order to keep progressing further. This is similar to natural selection in the wild. The most fit organisms give birth to the next generation, and so on until the organism is a culmination of all of the good parts of its ancestors. In the case of this simulation, the circles first move completely randomly. Starting from Generation 2, they follow the path of the last generation's best organism, with a slight chance to randomly mutate. This random mutation has a chance to move closer to the green dot, which then makes it the current generation's most fit organism.
 
